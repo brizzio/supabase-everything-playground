@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="./images/supabase.png" alt="Supabase Everything Playground" width="800">
+</p>
+
+
 # 🚀 Supabase Everything Playground: A Stack de Um Homem Só
 
 Este repositório é uma prova de conceito prática baseada na filosofia  **"Postgres para Tudo"** . O objetivo é demonstrar como o **Supabase** (que é essencialmente o Postgres com superpoderes) pode substituir dezenas de serviços SaaS caros e complexos, consolidando sua infraestrutura em um único lugar.
